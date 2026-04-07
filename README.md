@@ -10,9 +10,11 @@ ensuring ultra-fast deployments and security through Cloud Functions Actions.
 ## Central Node Users dashboard
 [https://main.wromo.net](https://main.wromo.net/)
 
-<img width="1064" height="1255" alt="main.wromo.net" src="https://github.com/user-attachments/assets/d57c87aa-3001-4671-b643-ec4506405f11" />
+<img width="1601" height="1252" alt="Dashboard main.wromo.net" src="https://github.com/user-attachments/assets/4afb0fa5-d661-41a1-8638-a8f3cb0a4098" />
 
-<img width="1892" height="1194" alt="wromo.net website" src="https://github.com/user-attachments/assets/d73d0c3c-0ff5-45c9-98be-dccaeb574868" />
-
-## Visual Editor
+## Visual Editor - to main.wromo.net
 <img width="2081" height="1259" alt="image" src="https://github.com/user-attachments/assets/2755d502-797c-48ab-83ff-56be51d62908" />
+
+## wromo.net preview homepage
+<img width="2160" height="1296" alt="wromo.net" src="https://github.com/user-attachments/assets/2335994c-b6d3-4808-9e48-4198527e43d8" />
+
